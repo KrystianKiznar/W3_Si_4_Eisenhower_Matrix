@@ -64,7 +64,6 @@ bool isImportant() {
             cout << "Invalid input. Try again!" << endl;
             continue;
     }
-
 }
 
 void CheckTask(int day, int month) {
@@ -149,5 +148,5 @@ int main()
             cout << "Invalid input. Try again.";
             continue;
     }
-
+    return 0;
 }
